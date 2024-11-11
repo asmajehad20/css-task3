@@ -1,0 +1,18 @@
+
+.photos{
+    padding:50px;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-items: center;
+
+    row-gap: 60px;
+    column-gap: 30px;
+}
+
+.photo{
+    height: 280px;
+    width: 28%;
+}
